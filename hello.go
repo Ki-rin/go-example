@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Ki-rin/go-example/points"
+	"github.com/Ki-rin/go-point"
 )
 
 func main() {
