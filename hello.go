@@ -20,5 +20,5 @@ func main() {
 
 	p := Point{1, 2} // This is an assignment to the variable p
 	fmt.Println(p.x)
-	fmt.Println(p.Abs() == Abs(p))
+	fmt.Println(p.Abs() != Abs(p))
 }
